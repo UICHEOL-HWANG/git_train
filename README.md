@@ -1,2 +1,6 @@
-하이
-난 의철 
+# git_train
+
+연습 1
+삭제
+
+asdasdasd
