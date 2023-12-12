@@ -2,5 +2,5 @@
 
 연습 1
 삭제
-
+awdawdawdawd
 asdasdasd
